@@ -42,30 +42,11 @@ This project implements an advanced encryption technique for color images using 
   ![Encrypted Image](results1.png)
 
 - Histogram Analysis:
-  ![Histogram Analysis](histogram_analysis.png)
+  ![Histogram Analysis](histogram.png)
 
 #### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#### Authors
-- List the contributors and their roles in the project.
-
-#### Acknowledgments
-- Mention any references, libraries, or inspiration used in the project.
-
-#### Future Enhancements
-- Outline any planned improvements or features for future versions.
-
 #### Support
-- For any issues or questions, please contact [your_email@example.com](mailto:your_email@example.com).
+- For any issues or questions, please contact [ajaiff18@gmail.com](mailto:your_email@example.com).
 
-### Conclusion
-Provide a concluding statement about the project and its significance.
-
-### Appendix
-Include any additional information or data related to the project that might be useful.
-
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Replace placeholders like `your_username`, `your_repository`, `encryption_script.py`, and `decryption_script.py` with actual details specific to your GitHub repository and project structure. This template should help you get started with documenting your project effectively on GitHub.
